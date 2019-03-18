@@ -1,1 +1,1 @@
-# superheroscience
+# ShaShocksGuideToScience
