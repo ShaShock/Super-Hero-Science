@@ -6,6 +6,6 @@ ShaShock.com
 </title>
 </head>
 <body { style="color:white" } background="blue-black-halftoned-dots-background_1164-1025.jpg">
-<img src="The Superhero FIles.PNG" style margin="50%">
+<img src="TheSuperheroStudio.PNG" style margin="50%">
 </body>
 <html>
